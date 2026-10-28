@@ -12,7 +12,7 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 
 - **Kelas:** RB
 - **Lokasi kelompok:** 4 — Politecnico di Milano
-- **Laporan:** https://typst.app/project/rf7EnBKpnvqMHlKDqmFxac
+- **Laporan:** https://typst.app/project/pRAgHYgHInSu7ZJiN35QeE
 
 ## Cara Menjalankan
 
