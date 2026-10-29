@@ -7,8 +7,8 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 | Peran | Nama | NIM |
 |---|---|---|
 | Ketua | Vindra Ardi Pratama | 124400014 |
-| Anggota | Yerikho Febryan Pane | 124400034 |
-| Anggota | Deo H Maldino Simanjuntak | 124400050 |
+| Anggota | Nama Anggota | NIM |
+| Anggota | Nama Anggota | NIM |
 
 - **Kelas:** RB
 - **Lokasi kelompok:** 4 — Politecnico di Milano
