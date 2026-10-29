@@ -23,7 +23,7 @@ uv run jupyter lab
 
 Buka `tugas_ablasi.ipynb`, isi `LOKASI_KELOMPOK`, lalu jalankan semua sel. Semua run tercatat di `hasil/ablasi.csv`.
 
-Perangkat yang kami pakai: [contoh: laptop CPU Intel i5 / Google Colab T4], total waktu training: [x] menit.
+Perangkat yang kami pakai: [laptop CPU Ryzen 3 / jupyter notebook], total waktu training: [108.4] menit.
 
 ## Ringkasan Hasil
 
